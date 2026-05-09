@@ -1,0 +1,6 @@
+streamlit
+pinecone-client
+FlagEmbedding
+cohere
+google-genai
+torch --index-url https://download.pytorch.org/whl/cpu
